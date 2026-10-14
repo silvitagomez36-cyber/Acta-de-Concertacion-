@@ -1,0 +1,6 @@
+{
+  "name": "Acta de Concertación Comunitaria Rural",
+  "description": "Sistema técnico-pedagógico para formalizar acuerdos de formación en comunidades rurales, con memoria de razonamiento previo y acta comunitaria editable y lista para impresión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
